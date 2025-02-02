@@ -110,7 +110,7 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kaianvs&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -118,23 +118,19 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaianvs&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div> 
     <q style = "font-size: 20px">Na adversidade, uns desistem, enquanto outros batem recordes.</q> <p style = "font-size: 18px; font-weight: bold">Ayrton Senna</p>
 </div>
