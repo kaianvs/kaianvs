@@ -106,6 +106,35 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
 
 ### 📊 Estatísticas
 
-![Kaian GitHub stats](https://github-readme-stats.vercel.app/api?username=kaianvs&show_icons=true&theme=dark)
+<p >
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kaianvs&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
-<q>Podem ser encontrados aspectos positivos até nas situações negativas<br> e é possível utilizar tudo isso como experiência para o futuro, seja como piloto, seja como homem.</q> <br>Ayrton Senna
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaianvs&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div> 
+    <q style = "font-size: 20px">Na adversidade, uns desistem, enquanto outros batem recordes.</q> <p style = "font-size: 18px">Ayrton Senna</p>
+</div>
