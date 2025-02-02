@@ -110,7 +110,7 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kaianvs&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -118,7 +118,7 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaianvs&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
