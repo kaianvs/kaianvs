@@ -99,6 +99,14 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Webpack" 
+    title="Webpack"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 
 
 <br/>
