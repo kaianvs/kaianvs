@@ -98,7 +98,7 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
     title="Webpack"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/ruby-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
 />
 <img 
     align="left" 
@@ -106,7 +106,7 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
     title="Webpack"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/ruby-on-rails-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubyonrails/ruby-on-rails-original.svg" 
 />
 
 <br/>
