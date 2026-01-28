@@ -1,6 +1,6 @@
 # 👨‍💻🧠 Kaian Vasconcelos
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, estou cursando Ciências da Computaçã na Universidade Estadual Vale do Acaraú. Sou apaixonado por tecnologia e pelo poder do desenvolvimento Frontend em criar interfaces que conectam pessoas e ideias.
 
@@ -92,7 +92,22 @@ Me chamo Kaian Vasconcelos, tenho 21 anos e sou natural do Ceará. Atualmente, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Webpack" 
+    title="Webpack"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/ruby-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Webpack" 
+    title="Webpack"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/ruby-on-rails-original.svg" 
+/>
 
 <br/>
 <br/>
